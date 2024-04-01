@@ -1,0 +1,104 @@
+is_enabled: true
+identifier: TopPicks
+directory: Home
+target_page: Home
+elements:
+  items:
+  - name: Discord Integration
+    href: 'https://github.com/Exiled-Team/DiscordIntegration'
+    image:
+      name: 
+      href: 
+      src: ./assets/images/background/default-plugin-bg.png
+      alt: Discord Integration
+      height: 
+      width: 
+    content:
+      title:
+        text: Discord Integration
+        tags: []
+      subtitle:
+        text: '@Exiled-Team'
+        tags: []
+  - name: CedMod
+    href: 'https://github.com/CedModV2/CedMod/'
+    image:
+      name: 
+      href: 
+      src: ./assets/images/background/default-plugin-bg.png
+      alt: CedMod
+      height: 
+      width: 
+    content:
+      title:
+        text: CedMod
+        tags: []
+      subtitle:
+        text: '@ced777ric'
+        tags: []
+  - name: Scripted Events
+    href: 'https://github.com/Thundermaker300/ScriptedEvents'
+    image:
+      name: 
+      href: 
+      src: ./assets/images/background/default-plugin-bg.png
+      alt: Scripted Events
+      height: 
+      width: 
+    content:
+      title:
+        text: Scripted Events
+        tags: []
+      subtitle:
+        text: '@thunder300'
+        tags: []
+  - name: Admin Tools
+    href: 'https://github.com/Exiled-Team/AdminTools/'
+    image:
+      name: 
+      href: 
+      src: ./assets/images/background/default-plugin-bg.png
+      alt: Admin Tools
+      height: 
+      width: 
+    content:
+      title:
+        text: Admin Tools
+        tags: []
+      subtitle:
+        text: '@Exiled-Team'
+        tags: []
+  - name: Map Editor Reborn
+    href: 'https://github.com/Michal78900/MapEditorReborn'
+    image:
+      name: 
+      href: 
+      src: ./assets/images/background/default-plugin-bg.png
+      alt: Map Editor Reborn
+      height: 
+      width: 
+    content:
+      title:
+        text: Map Editor Reborn
+        tags: []
+      subtitle:
+        text: '@michal78900'
+        tags: []
+  - name: Common Utilities
+    href: 'https://github.com/Exiled-Team/Common-Utils/'
+    image:
+      name: 
+      href: 
+      src: ./assets/images/background/default-plugin-bg.png
+      alt: Common Utilities
+      height: 
+      width: 
+    content:
+      title:
+        text: Common Utilities
+        tags: []
+      subtitle:
+        text: '@Exiled-Team'
+        tags: []
+  max_displayable_items: 10
+  name: 

@@ -1,0 +1,148 @@
+is_enabled: true
+identifier: Documentation
+directory: Documentation
+target_page: Documentation
+is_category: true
+title_span: Exiled
+title: Documentation
+subtitle: 'Discover the wonders of the Exiled Framework with our comprehensive guides!'
+articles:
+# Getting started - Category
+- name: getting-started
+  href: 'GettingStarted'
+  icon:
+    href: '#'
+    class: compass
+  tags:
+  - href: ''
+    class: Beginner
+  - href: ''
+    class: Plugins
+  title:
+    text: Getting started
+    tags: []
+  subtitle:
+    text: Learn the basics of Exiled Framework and start building amazing projects.
+    tags: []
+# Using Unity API - Category
+- name: using-unity-api
+  href: '#'
+  icon:
+    href: '#'
+    class: planet-sharp
+  tags:
+  - href: ''
+    class: Beginner
+  - href: ''
+    class: Plugins
+  title:
+    text: Using Unity API
+    tags: []
+  subtitle:
+    text: Discover how to engage with the Unity API and enhance the quality of your projects.
+    tags: []
+# Explore built-in events - Category
+- name: explore-built-in-events
+  href: '#'
+  icon:
+    href: '#'
+    class: construct
+  tags:
+  - href: ''
+    class: Beginner
+  - href: ''
+    class: Events
+  title:
+    text: Explore built-in events
+    tags: []
+  subtitle:
+    text: Embark on an exploration of Exiled built-in events and unlock their full potential.
+    tags: []
+# Complex events - Category
+- name: complex-events
+  href: '#'
+  icon:
+    href: '#'
+    class: cube
+  tags:
+  - href: ''
+    class: Intermediate
+  - href: ''
+    class: Events
+  title:
+    text: Complex events
+    tags: []
+  subtitle:
+    text: A comprehensive guide to rewrite the game logic using complex events.
+    tags: []
+# Using Harmony - Category
+- name: using-harmony
+  href: '#'
+  icon:
+    href: '#'
+    class: magnet
+  tags:
+  - href: ''
+    class: Intermediate
+  - href: ''
+    class: Reflection
+  - href: ''
+    class: Low Level
+  title:
+    text: Using Harmony
+    tags: []
+  subtitle:
+    text: More customizition techniques to alter base game logic.
+    tags: []
+
+# Introduction to Core - Category
+- name: introduction-to-core
+  href: '#'
+  icon:
+    href: '#'
+    class: cog
+  tags:
+  - href: ''
+    class: Intermediate
+  - href: ''
+    class: Engine
+  title:
+    text: Introduction to Core
+    tags: []
+  subtitle:
+    text: Discover the inner workings of Exiled Core functionalities.
+    tags: []
+# Explore in depth core - Category
+- name: explore-in-depth-core
+  href: '#'
+  icon:
+    href: '#'
+    class: extension-puzzle
+  tags:
+  - href: ''
+    class: Advanced
+  - href: ''
+    class: Engine
+  title:
+    text: Explore in depth Core
+    tags: []
+  subtitle:
+    text: Dive deep into the core functionalities to unlock the full potential of Exiled.
+    tags: []
+# Using Custom Modules - Category
+- name: using-custom-modules
+  href: '#'
+  icon:
+    href: '#'
+    class: layers
+  tags:
+  - href: ''
+    class: Advanced
+  - href: ''
+    class: Plugins
+  title:
+    text: Using Custom Modules
+    tags: []
+  subtitle:
+    text: Learn to leverage various powerful APIs for customizing in-game entities.
+    tags: []

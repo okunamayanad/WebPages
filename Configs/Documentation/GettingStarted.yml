@@ -1,0 +1,169 @@
+is_enabled: true
+identifier: GettingStarted
+directory: Documentation/
+target_page: GettingStarted
+is_category: false
+title_span: Getting
+title: Started
+subtitle: 'Begin your Exiled journey: Immerse yourself in the world of Modding and Plugin Development to uncover limitless opportunities for creativity and innovation!'
+articles:
+# Setting up the environment - Article
+- name: setting-up-the-environment
+  href: 'Setting-up-the-environment'
+  icon:
+    href: '#'
+    class: alert-circle
+  tags:
+  - href: ''
+    class: Beginner
+  title:
+    text: Setting up the environment
+    tags: []
+  subtitle:
+    text: This guide provides step-by-step instructions for setting up your development environment to create plugins.
+    tags: []
+# A Quick API Overview - Article
+- name: a-quick-api-overview
+  href: 'A-quick-API-overview'
+  icon:
+    href: '#'
+    class: add-circle
+  tags:
+  - href: ''
+    class: Beginner
+  title:
+    text: A Quick API Overview
+    tags: []
+  subtitle:
+    text: For new developers interested in plugin development, it is important to grasp and make use of the API.
+    tags: []
+# Build your first plugin I - Article
+- name: build-your-first-plugin-1
+  href: 'Build-your-first-plugin-I'
+  icon:
+    href: '#'
+    class: flask
+  tags:
+  - href: ''
+    class: Beginner
+  - href: ''
+    class: Plugins
+  title:
+    text: Build your first plugin I
+    tags: []
+  subtitle:
+    text: Let's proceed with the construction of a plugin by utilizing the inherent functionalities of the built-in API.
+    tags: []
+# A Quick Events Overview - Article
+- name: a-quick-events-overview
+  href: 'A-quick-events-overview'
+  icon:
+    href: '#'
+    class: add-circle
+  tags:
+  - href: ''
+    class: Beginner
+  title:
+    text: A brief summary about Events
+    tags: []
+  subtitle:
+    text: Providing a quick explanation and practical tips on how to understand and take advantage of events.
+    tags: []
+# Build your first plugin II - Article
+- name: build-your-first-plugin-2
+  href: 'Build-your-first-plugin-II'
+  icon:
+    href: '#'
+    class: flask
+  tags:
+  - href: ''
+    class: Beginner
+  - href: ''
+    class: Plugins
+  title:
+    text: Build your first plugin II
+    tags: []
+  subtitle:
+    text: Let's proceed with building your first plugin by making use of the pre-existing events.
+    tags: []
+# Relying on configuration features - Article
+- name: relying-on-configuration-features
+  href: 'Relying-on-configuration-features'
+  icon:
+    href: '#'
+    class: add-circle
+  tags:
+  - href: ''
+    class: Beginner
+  title:
+    text: Relying on configuration features
+    tags: []
+  subtitle:
+    text: Let's explore the functionality of the configuration interface.
+    tags: []
+# Build your first plugin III - Article
+- name: build-your-first-plugin-3
+  href: 'Build-your-first-plugin-III'
+  icon:
+    href: '#'
+    class: flask
+  tags:
+  - href: ''
+    class: Beginner
+  - href: ''
+    class: Plugins
+  title:
+    text: Build your first plugin III
+    tags: []
+  subtitle:
+    text: Adding a configuration to your first plugin by relying on Exiled's configuration features.
+    tags: []
+# Commands & permissions  - Article
+- name: commands-and-permissions
+  href: 'Commands-and-permissions'
+  icon:
+    href: '#'
+    class: add-circle
+  tags:
+  - href: ''
+    class: Beginner
+  title:
+    text: Commands & permissions
+    tags: []
+  subtitle:
+    text: Finally, it is essential to examine the commands and execution permissions.
+    tags: []
+# Build your first plugin IV - Article
+- name: build-your-first-plugin-4
+  href: 'Build-your-first-plugin-IV'
+  icon:
+    href: '#'
+    class: flask
+  tags:
+  - href: ''
+    class: Beginner
+  - href: ''
+    class: Plugins
+  title:
+    text: Build your first plugin IV
+    tags: []
+  subtitle:
+    text: It's time to enhance your first plugin by incorporating some commands, each with their own specific permissions.
+    tags: []
+# Build your first plugin V - Article
+- name: build-your-first-plugin-5
+  href: 'Build-your-first-plugin-V'
+  icon:
+    href: '#'
+    class: flask
+  tags:
+  - href: ''
+    class: Beginner
+  - href: ''
+    class: Plugins
+  title:
+    text: Build your first plugin V
+    tags: []
+  subtitle:
+    text: The plugin is prepared for deployment and execution within the game server.
+    tags: []
