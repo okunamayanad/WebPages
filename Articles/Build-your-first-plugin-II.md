@@ -1,5 +1,5 @@
 [title: Build your first plugin II]
-[next: Reyling-on-configuration-features]
+[next: Relying-on-configuration-features]
 [previous: A-quick-events-overview]
 [authors: naounderscore]
 [date: 29/03/2024]
